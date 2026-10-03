@@ -110,13 +110,13 @@ public class YusufAliGoksel
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygoksel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=512BD4&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygoksel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img height="180em"
+     src="https://github-readme-stats.vercel.app/api?username=ygoksel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=512BD4&text_color=FFFFFF"
+/>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
