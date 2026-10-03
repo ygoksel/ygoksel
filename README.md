@@ -175,12 +175,11 @@ public class YusufAliGoksel
 ## 🌐 Connect With Me
 
 <a href="https://github.com/ygoksel">
-<img src="https://img.shields.io/badge/GitHub-ygoksel-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-ygoksel-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- LinkedIn adresini biliyorsan aşağıdaki # kısmını değiştir -->
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Yusuf_Ali_Göksel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/yusufaligoksel">
+  <img src="https://img.shields.io/badge/LinkedIn-Yusuf_Ali_Göksel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
